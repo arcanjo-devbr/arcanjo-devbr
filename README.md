@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Arcanjo
+## 👋 Olá, Eu sou Miguel Arcanjo
 
 Sou **desenvolvedor backend** e **instrutor de tecnologia na [Ínclus.com](https://inclus.com.br/)**, apaixonado por lógica, clareza e boas práticas.  
 Gosto de entender problemas profundamente e construir soluções simples, eficientes e escaláveis.
