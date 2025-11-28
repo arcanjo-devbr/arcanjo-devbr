@@ -36,7 +36,6 @@ Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjo-devbr&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
----
 
 ### 📫 Como entrar em contato
 - Email: **arcanjo.devbr@gmail.com**
