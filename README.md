@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi there, I'm Arcanjo
 
-<!--
-**arcanjo-devbr/arcanjo-devbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **desenvolvedor backend** e **instrutor de tecnologia na [Ínclus.com](https://inclus.com.br/)**, apaixonado por lógica, clareza e boas práticas.  
+Gosto de entender problemas profundamente e construir soluções simples, eficientes e escaláveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Atualmente trabalho com
+- Backend em **Node.js** e **Java**
+- API REST, autenticação, integrações e boas práticas
+- Docker e Nginx
+- AWS (EC2, ECS, S3, STS, IAM, Parameter Store)
+
+---
+
+### 🌱 Estudando no momento
+- **TypeScript**
+- **Traefik**
+- **HashiCorp Vault**
+- **GitHub Actions**
+
+---
+
+### 💬 Sobre mim
+Sou criativo, curioso e questionador.  
+Tenho forte capacidade de comunicação e paixão por ensinar tecnologia — tanto em aula quanto em projetos reais.  
+Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a aprender de forma simples e direta.
+
+---
+
+### 📫 Como entrar em contato
+- Email: **arcanjo.devbr@gmail.com**
+- GitHub: **@arcanjo-devbr**
