@@ -2,7 +2,8 @@
 
 Sou **desenvolvedor backend** e **instrutor de tecnologia na [Ínclus.com](https://inclus.com.br/)**, apaixonado por lógica, clareza e boas práticas.  
 Gosto de entender problemas profundamente e construir soluções simples, eficientes e escaláveis.
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ---
 
 ### 🔭 Atualmente trabalho com
