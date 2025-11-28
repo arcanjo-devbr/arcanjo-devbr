@@ -27,14 +27,6 @@ Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a a
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcanjo-devbr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github)
-
-</div>
-
 ### 📫 Como entrar em contato
 - Email: **arcanjo.devbr@gmail.com**
 - GitHub: **@arcanjo-devbr**
