@@ -5,12 +5,12 @@
 
 ### 💬 Sobre mim
 
-* Sou Técnico em informática pelo IFPB - Campus Esperança.
-* Sou estudante do curso superior de ADS, no IFPB - Campus Esperança.
-* Sou professor de Programação pela Ínclus.com
-* Sou criativo, curioso e questionador.  
-* Tenho forte capacidade de comunicação e paixão por ensinar tecnologia — tanto em aula quanto em projetos reais.  
-* Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a aprender de forma simples e direta.
+* 🎓 Sou Técnico em informática pelo IFPB - Campus Esperança.
+* <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Instituto_Federal_Marca_2015.svg" height="15px" /> Sou estudante do curso superior de ADS, no IFPB - Campus Esperança.
+* 👨‍🏫 Sou professor de Programação pela Ínclus.com
+* 🧠 Sou criativo, curioso e questionador.  
+* 🗣️ Tenho forte capacidade de comunicação e paixão por ensinar tecnologia — tanto em aula quanto em projetos reais.  
+* 🧩 Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a aprender de forma simples e direta.
 
 
 ### 🔭 Atualmente trabalho com
