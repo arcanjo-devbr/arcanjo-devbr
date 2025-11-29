@@ -4,6 +4,19 @@
 ### Gosto de entender problemas profundamente e construir soluções simples, eficientes e escaláveis.
 ---
 
+---
+
+### 💬 Sobre mim
+Sou criativo, curioso e questionador.  
+Tenho forte capacidade de comunicação e paixão por ensinar tecnologia — tanto em aula quanto em projetos reais.  
+Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a aprender de forma simples e direta.
+
+---
+💻 Técnico em informática.
+---
+Estudante do curso superior de ADS, no IFPB - Campus Esperança.
+---
+
 ### 🔭 Atualmente trabalho com
 - Backend em **Node.js** e **Java**
 - API REST, autenticação, integrações e boas práticas
@@ -18,14 +31,6 @@
 - **HashiCorp Vault**
 - **GitHub Actions**
 
----
-
-### 💬 Sobre mim
-Sou criativo, curioso e questionador.  
-Tenho forte capacidade de comunicação e paixão por ensinar tecnologia — tanto em aula quanto em projetos reais.  
-Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a aprender de forma simples e direta.
-
----
 
 ### 📫 Como entrar em contato
 - Email: **arcanjo.devbr@gmail.com**
