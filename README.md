@@ -2,7 +2,6 @@
 
 ### Sou **desenvolvedor backend** e **instrutor de tecnologia na [Ínclus.com](https://inclus.com.br/)**, apaixonado por lógica, clareza e boas práticas.  
 ### Gosto de entender problemas profundamente e construir soluções simples, eficientes e escaláveis.
----
 
 ### 💬 Sobre mim
 
@@ -13,7 +12,6 @@
 * Tenho forte capacidade de comunicação e paixão por ensinar tecnologia — tanto em aula quanto em projetos reais.  
 * Gosto de estruturar ideias com clareza, discutir soluções e ajudar pessoas a aprender de forma simples e direta.
 
----
 
 ### 🔭 Atualmente trabalho com
 - Backend em **Node.js** e **Java**
@@ -21,7 +19,6 @@
 - Docker e Nginx
 - AWS (EC2, ECS, S3, STS, IAM, Parameter Store)
 
----
 
 ### 🌱 Estudando no momento
 - **TypeScript**
