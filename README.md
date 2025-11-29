@@ -18,6 +18,7 @@
 - API REST, autenticação, integrações e boas práticas
 - Docker e Nginx
 - AWS (EC2, ECS, S3, STS, IAM, Parameter Store)
+- Frontend em HTML, CSS e JS
 
 
 ### 🌱 Estudando no momento
